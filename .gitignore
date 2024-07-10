@@ -46,3 +46,6 @@ tests/auto/cmake/build
 
 # Generated static plugin import sources
 *_plugin_import.cpp
+
+build-*/
+*.dat

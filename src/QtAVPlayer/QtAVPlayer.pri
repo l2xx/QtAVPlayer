@@ -1,5 +1,6 @@
 QT += concurrent
 CONFIG += C++1z
+
 LIBS += -lavcodec -lavformat -lswscale -lavutil -lswresample -lswscale -lavfilter -lavdevice
 
 PRIVATE_HEADERS += \
